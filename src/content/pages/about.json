@@ -1,0 +1,160 @@
+{
+  "hero": {
+    "label": "Our Story",
+    "headline": "BUILT ON CHEMISTRY. DRIVEN BY PERFORMANCE.",
+    "subheadline": "JRP Lubricants is the flagship brand of Jay Trading Company — established in 2018 in Gujarat with a mission to manufacture world-class lubricants for domestic and international markets."
+  },
+  "story": {
+    "sectionLabel": "Who We Are",
+    "headline": "A BRAND WITH GLOBAL AMBITIONS",
+    "body1": "Jay Trading Company (JTC) was founded in 2018 in Gujarat with a clear vision: to build a lubricant brand that competes on quality, not just price. JRP Lubricants is that brand — our flagship range of industrial oils, automotive lubricants, specialty greases, and marine products, all manufactured in-house.",
+    "body2": "From our manufacturing facility in Gujarat, we produce 500+ formulations built to international standards. We are fully export-ready — with compliance documentation, flexible packaging, and the product range to serve distributors, OEMs, and industrial buyers across global markets. We're actively seeking our first international distribution partnerships."
+  },
+  "milestones": [
+    {
+      "id": "ms-1",
+      "year": "2018",
+      "title": "JTC Founded",
+      "description": "Jay Trading Company established in Gujarat — the parent company behind the JRP Lubricants brand."
+    },
+    {
+      "id": "ms-2",
+      "year": "2019",
+      "title": "JRP Brand Launch",
+      "description": "JRP Lubricants launched as our flagship product brand, covering industrial, automotive, and specialty categories."
+    },
+    {
+      "id": "ms-3",
+      "year": "2020",
+      "title": "ISO Certification",
+      "description": "Achieved ISO 9001:2015 certification — formalising our commitment to consistent, internationally recognised quality."
+    },
+    {
+      "id": "ms-4",
+      "year": "2022",
+      "title": "500+ Formulations",
+      "description": "Product portfolio expanded to 500+ SKUs across industrial, automotive, grease, and marine categories."
+    },
+    {
+      "id": "ms-5",
+      "year": "2023",
+      "title": "Export Readiness",
+      "description": "Completed full export compliance setup — documentation, packaging, and certifications ready for international markets."
+    },
+    {
+      "id": "ms-6",
+      "year": "2024",
+      "title": "Seeking Global Partners",
+      "description": "Actively pursuing distribution partnerships across the Middle East, Africa, Southeast Asia, and Europe."
+    }
+  ],
+  "values": {
+    "sectionLabel": "What Drives Us",
+    "headline": "OUR CORE VALUES",
+    "items": [
+      {
+        "id": "val-1",
+        "title": "Uncompromising Quality",
+        "description": "Every batch is tested against international standards before dispatch. No exceptions, no shortcuts."
+      },
+      {
+        "id": "val-2",
+        "title": "Innovation in Formulation",
+        "description": "Our in-house R&D team continuously develops new formulations to meet evolving equipment and environmental standards."
+      },
+      {
+        "id": "val-3",
+        "title": "Customer Partnership",
+        "description": "We don't just sell lubricants — we work alongside our customers to solve lubrication challenges and reduce downtime."
+      },
+      {
+        "id": "val-4",
+        "title": "Sustainable Manufacturing",
+        "description": "ISO 14001:2015 certified. We operate with environmental responsibility at every stage of production."
+      }
+    ]
+  },
+  "facility": {
+    "sectionLabel": "Manufacturing",
+    "headline": "WORLD-CLASS FACILITY IN GUJARAT",
+    "subheadline": "Our Gujarat plant combines modern blending technology with rigorous quality control — capable of producing everything from small specialty batches to large-volume industrial orders.",
+    "specs": [
+      {
+        "id": "spec-1",
+        "label": "Established",
+        "value": "2018"
+      },
+      {
+        "id": "spec-2",
+        "label": "Product SKUs",
+        "value": "500+"
+      },
+      {
+        "id": "spec-3",
+        "label": "Quality Standard",
+        "value": "ISO 9001"
+      },
+      {
+        "id": "spec-4",
+        "label": "Export Status",
+        "value": "Ready"
+      }
+    ]
+  },
+  "team": {
+    "sectionLabel": "Leadership",
+    "headline": "THE PEOPLE BEHIND JRP",
+    "subheadline": "Our leadership team brings together expertise in lubricant chemistry, manufacturing operations, and business development.",
+    "members": [
+      {
+        "id": "tm-1",
+        "name": "Jay Trading Company",
+        "title": "Parent Company",
+        "bio": "JTC was founded in 2018 in Gujarat as the parent company behind the JRP Lubricants brand. Our mission from day one: manufacture world-class lubricants and build a brand ready for global markets."
+      },
+      {
+        "id": "tm-2",
+        "name": "JRP Lubricants",
+        "title": "Flagship Brand",
+        "bio": "JRP is our flagship lubricant brand — covering industrial oils, automotive lubricants, specialty greases, and marine products. Every formulation is developed and manufactured in-house in Gujarat."
+      },
+      {
+        "id": "tm-3",
+        "name": "Export Division",
+        "title": "Global Outreach",
+        "bio": "Our export team is fully set up with compliance documentation, international packaging, and market-ready formulations. We're actively seeking our first international distribution partnerships."
+      }
+    ]
+  },
+  "certifications": {
+    "sectionLabel": "Certifications",
+    "headline": "CERTIFIED FOR GLOBAL MARKETS",
+    "items": [
+      {
+        "id": "cert-1",
+        "name": "ISO 9001:2015",
+        "body": "Quality Management"
+      },
+      {
+        "id": "cert-2",
+        "name": "ISO 14001:2015",
+        "body": "Environmental Management"
+      },
+      {
+        "id": "cert-3",
+        "name": "API Certified",
+        "body": "Automotive & Industrial"
+      },
+      {
+        "id": "cert-4",
+        "name": "BIS Certified",
+        "body": "Bureau of Indian Standards"
+      }
+    ]
+  },
+  "cta": {
+    "headline": "PARTNER WITH JRP LUBRICANTS",
+    "subheadline": "Whether you need a reliable lubricant supplier, a private-label partner, or a technical consultation — we're ready to work with you.",
+    "buttonText": "Get in Touch"
+  }
+}

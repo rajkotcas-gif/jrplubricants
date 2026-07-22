@@ -1,0 +1,65 @@
+{
+  "hero": {
+    "label": "Contact Us",
+    "headline": "LET'S TALK BUSINESS.",
+    "subheadline": "Whether you're a distributor, industrial buyer, or OEM partner — our team is ready to discuss your lubricant requirements, export inquiries, and technical questions."
+  },
+  "info": {
+    "sectionLabel": "Get in Touch",
+    "headline": "REACH OUR TEAM",
+    "items": [
+      {
+        "id": "info-1",
+        "label": "Head Office",
+        "value": "Jay Trading Co., Navagam, Rajkot — 360003, Gujarat, India"
+      },
+      {
+        "id": "info-2",
+        "label": "Sales & Export",
+        "value": "+91 90330 76190"
+      },
+      {
+        "id": "info-3",
+        "label": "Email",
+        "value": "jaytradingco1810@gmail.com"
+      },
+      {
+        "id": "info-4",
+        "label": "Working Hours",
+        "value": "Mon – Sat: 9:00 AM – 8:00 PM IST"
+      }
+    ]
+  },
+  "form": {
+    "heading": "Send Us an Inquiry",
+    "subheading": "Fill in your details and we'll get back to you within 24 business hours.",
+    "inquiryTypes": [
+      "General Inquiry",
+      "Export / Distribution",
+      "Product Technical Query",
+      "Private Label / OEM",
+      "Request a Sample",
+      "Other"
+    ]
+  },
+  "quickLinks": {
+    "headline": "QUICK LINKS",
+    "items": [
+      {
+        "id": "ql-1",
+        "label": "View Our Products",
+        "href": "/products"
+      },
+      {
+        "id": "ql-2",
+        "label": "Export Capabilities",
+        "href": "/export"
+      },
+      {
+        "id": "ql-3",
+        "label": "About JRP Lubricants",
+        "href": "/about"
+      }
+    ]
+  }
+}

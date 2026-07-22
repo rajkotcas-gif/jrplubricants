@@ -1,0 +1,284 @@
+{
+  "hero": {
+    "label": "Product Range",
+    "headline": "PERFORMANCE-GRADE LUBRICANTS FOR EVERY APPLICATION",
+    "subheadline": "500+ formulations engineered for industrial, automotive, marine, and specialty applications — manufactured in Gujarat, exported worldwide."
+  },
+  "categories": [
+    {
+      "id": "cat-industrial",
+      "slug": "industrial-oils",
+      "name": "Industrial Oils",
+      "imageSlot": "/airo-assets/images/pages/home/products-industrial",
+      "description": "High-performance oils engineered for continuous heavy-duty industrial operations — from gear systems and turbines to compressors and hydraulic circuits.",
+      "products": [
+        {
+          "id": "prod-io-1",
+          "name": "JRP Gear Oil EP",
+          "grade": "ISO VG 68 / 100 / 150 / 220 / 320 / 460 / 680",
+          "description": "Extreme pressure gear oil formulated with advanced EP additives for enclosed industrial gear systems. Provides excellent load-carrying capacity and thermal stability.",
+          "applications": "Spur, helical, bevel, and worm gears | Steel mills | Cement plants | Paper mills",
+          "features": [
+            "High EP performance",
+            "Excellent thermal stability",
+            "Anti-wear protection",
+            "Rust & corrosion inhibition"
+          ]
+        },
+        {
+          "id": "prod-io-2",
+          "name": "JRP Turbine Oil",
+          "grade": "ISO VG 32 / 46 / 68",
+          "description": "Premium turbine oil with excellent oxidation stability and demulsibility for steam and gas turbines in power generation and industrial applications.",
+          "applications": "Steam turbines | Gas turbines | Hydroelectric turbines | Turbochargers",
+          "features": [
+            "Superior oxidation resistance",
+            "Excellent water separation",
+            "Low foaming tendency",
+            "Long service life"
+          ]
+        },
+        {
+          "id": "prod-io-3",
+          "name": "JRP Hydraulic Oil HLP",
+          "grade": "ISO VG 22 / 32 / 46 / 68 / 100",
+          "description": "Anti-wear hydraulic oil with zinc-based additive system for high-pressure hydraulic systems in industrial machinery and mobile equipment.",
+          "applications": "Hydraulic presses | Injection moulding | CNC machinery | Construction equipment",
+          "features": [
+            "High anti-wear protection",
+            "Good filterability",
+            "Excellent viscosity-temperature behaviour",
+            "Corrosion protection"
+          ]
+        },
+        {
+          "id": "prod-io-4",
+          "name": "JRP Compressor Oil",
+          "grade": "ISO VG 32 / 46 / 68 / 100 / 150",
+          "description": "Mineral-based compressor oil with excellent oxidation stability and low carbon deposit formation for rotary screw and reciprocating compressors.",
+          "applications": "Rotary screw compressors | Reciprocating compressors | Vane compressors | Air tools",
+          "features": [
+            "Low carbon deposits",
+            "Excellent oxidation stability",
+            "Good air release",
+            "Extended drain intervals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cat-automotive",
+      "slug": "automotive-lubricants",
+      "name": "Automotive Lubricants",
+      "imageSlot": "/airo-assets/images/pages/home/products-automotive",
+      "description": "Engine oils, transmission fluids, and specialty automotive lubricants formulated to meet API, ACEA, and OEM specifications for passenger and commercial vehicles.",
+      "products": [
+        {
+          "id": "prod-av-1",
+          "name": "JRP Engine Oil SN/CF",
+          "grade": "SAE 0W-20 / 5W-30 / 5W-40 / 10W-30 / 10W-40 / 15W-40 / 20W-50",
+          "description": "Full and semi-synthetic engine oils meeting API SN/CF standards for modern petrol and diesel engines. Provides superior wear protection and fuel economy.",
+          "applications": "Passenger cars | SUVs | Light commercial vehicles | Motorcycles",
+          "features": [
+            "API SN/CF certified",
+            "Fuel economy improvement",
+            "Low-temperature performance",
+            "Extended drain intervals"
+          ]
+        },
+        {
+          "id": "prod-av-2",
+          "name": "JRP Heavy Duty Diesel Oil",
+          "grade": "SAE 15W-40 / 20W-50 | API CI-4 / CH-4",
+          "description": "Heavy-duty diesel engine oil for turbocharged and naturally aspirated diesel engines in trucks, buses, and construction equipment.",
+          "applications": "Heavy trucks | Buses | Construction equipment | Agricultural machinery",
+          "features": [
+            "API CI-4 / CH-4 rated",
+            "High soot dispersancy",
+            "Excellent oxidation control",
+            "Piston cleanliness"
+          ]
+        },
+        {
+          "id": "prod-av-3",
+          "name": "JRP Gear Oil GL-4/GL-5",
+          "grade": "SAE 75W-90 / 80W-90 / 85W-140",
+          "description": "Automotive gear oil for manual transmissions, differentials, and axles. Available in GL-4 for synchromesh gearboxes and GL-5 for hypoid axles.",
+          "applications": "Manual gearboxes | Differentials | Transfer cases | Axles",
+          "features": [
+            "GL-4 & GL-5 grades available",
+            "Synchromesh compatible",
+            "Hypoid gear protection",
+            "Thermal stability"
+          ]
+        },
+        {
+          "id": "prod-av-4",
+          "name": "JRP ATF Fluid",
+          "grade": "Dexron III / Mercon / Type F",
+          "description": "Automatic transmission fluid for passenger cars and light commercial vehicles. Provides smooth shifting, excellent friction stability, and long service life.",
+          "applications": "Automatic transmissions | Power steering | Torque converters | Hydraulic systems",
+          "features": [
+            "Smooth gear shifting",
+            "Excellent friction stability",
+            "Oxidation resistance",
+            "Seal compatibility"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cat-greases",
+      "slug": "specialty-greases",
+      "name": "Specialty Greases",
+      "imageSlot": "/airo-assets/images/pages/home/products-grease",
+      "description": "Lithium complex, calcium sulfonate, and polyurea greases for extreme pressure, high-temperature, and water-resistant applications across industrial and automotive sectors.",
+      "products": [
+        {
+          "id": "prod-gr-1",
+          "name": "JRP Lithium Complex Grease",
+          "grade": "NLGI 1 / 2 / 3",
+          "description": "Multi-purpose lithium complex grease with EP additives for bearings, chassis, and general industrial lubrication. Excellent high-temperature performance.",
+          "applications": "Rolling element bearings | Chassis lubrication | Electric motors | Conveyor systems",
+          "features": [
+            "High-temperature stability up to 180°C",
+            "Excellent EP performance",
+            "Water resistance",
+            "Long service life"
+          ]
+        },
+        {
+          "id": "prod-gr-2",
+          "name": "JRP Calcium Sulfonate Grease",
+          "grade": "NLGI 1 / 2",
+          "description": "High-performance calcium sulfonate complex grease with inherent EP and corrosion protection. Ideal for wet and marine environments.",
+          "applications": "Marine equipment | Offshore machinery | Steel plants | Mining equipment",
+          "features": [
+            "Inherent EP properties",
+            "Excellent corrosion protection",
+            "High water resistance",
+            "Temperature range -20°C to 220°C"
+          ]
+        },
+        {
+          "id": "prod-gr-3",
+          "name": "JRP High-Temp Grease",
+          "grade": "NLGI 2",
+          "description": "Polyurea-based high-temperature grease for electric motor bearings and high-speed applications requiring long-life lubrication.",
+          "applications": "Electric motor bearings | High-speed spindles | Oven conveyor bearings | Kiln equipment",
+          "features": [
+            "Operating range up to 260°C",
+            "High-speed capability",
+            "Excellent oxidation stability",
+            "Non-soap thickener"
+          ]
+        },
+        {
+          "id": "prod-gr-4",
+          "name": "JRP Open Gear Compound",
+          "grade": "NLGI 0 / 00",
+          "description": "Bitumen-based open gear compound for large open gear drives in cement mills, ball mills, and rotary kilns. Provides excellent adhesion and film strength.",
+          "applications": "Cement mills | Ball mills | Rotary kilns | Dryers",
+          "features": [
+            "Excellent adhesion",
+            "High film strength",
+            "Extreme pressure protection",
+            "Corrosion inhibition"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cat-marine",
+      "slug": "marine-heavy-duty",
+      "name": "Marine & Heavy-Duty",
+      "imageSlot": "/airo-assets/images/pages/home/products-marine",
+      "description": "Cylinder oils, trunk piston engine oils, and stern tube lubricants designed for marine diesel engines, offshore equipment, and heavy industrial applications.",
+      "products": [
+        {
+          "id": "prod-mh-1",
+          "name": "JRP Marine Cylinder Oil",
+          "grade": "BN 40 / 70 / 100",
+          "description": "High-alkalinity cylinder lubricant for two-stroke crosshead marine diesel engines. Provides excellent neutralisation of sulphuric acid from high-sulphur fuels.",
+          "applications": "Two-stroke crosshead engines | Container ships | Bulk carriers | Tankers",
+          "features": [
+            "High BN for acid neutralisation",
+            "Excellent piston cleanliness",
+            "Anti-scuffing protection",
+            "SOLAS compliant"
+          ]
+        },
+        {
+          "id": "prod-mh-2",
+          "name": "JRP Marine Diesel Engine Oil",
+          "grade": "SAE 30 / 40 | BN 12 / 30",
+          "description": "Trunk piston engine oil for four-stroke medium-speed marine diesel engines. Provides excellent detergency, dispersancy, and corrosion protection.",
+          "applications": "Four-stroke medium-speed engines | Ferries | Offshore vessels | Fishing vessels",
+          "features": [
+            "Excellent detergency",
+            "High dispersancy",
+            "Corrosion protection",
+            "Thermal stability"
+          ]
+        },
+        {
+          "id": "prod-mh-3",
+          "name": "JRP Stern Tube Lubricant",
+          "grade": "ISO VG 100 / 150",
+          "description": "Environmentally acceptable stern tube lubricant meeting EAL requirements for vessels operating in environmentally sensitive areas.",
+          "applications": "Stern tube bearings | Rudder bearings | Thruster bearings | Stabiliser bearings",
+          "features": [
+            "Environmentally acceptable (EAL)",
+            "Excellent film strength",
+            "Corrosion protection",
+            "Biodegradable formulation"
+          ]
+        },
+        {
+          "id": "prod-mh-4",
+          "name": "JRP Industrial Gear Oil HD",
+          "grade": "ISO VG 150 / 220 / 320 / 460 / 680",
+          "description": "Heavy-duty industrial gear oil for large enclosed gear drives in steel plants, cement plants, and mining operations requiring maximum load-carrying capacity.",
+          "applications": "Large enclosed gears | Steel rolling mills | Cement plant drives | Mining conveyors",
+          "features": [
+            "Maximum load-carrying capacity",
+            "Excellent thermal stability",
+            "Anti-wear and EP protection",
+            "Extended drain intervals"
+          ]
+        }
+      ]
+    }
+  ],
+  "certifications": {
+    "headline": "QUALITY YOU CAN CERTIFY",
+    "subheadline": "Every JRP product is manufactured under rigorous quality management systems and tested to international standards before leaving our Gujarat facility.",
+    "items": [
+      {
+        "id": "cert-1",
+        "name": "ISO 9001:2015",
+        "description": "Quality Management System"
+      },
+      {
+        "id": "cert-2",
+        "name": "ISO 14001:2015",
+        "description": "Environmental Management"
+      },
+      {
+        "id": "cert-3",
+        "name": "API Certified",
+        "description": "American Petroleum Institute"
+      },
+      {
+        "id": "cert-4",
+        "name": "BIS Certified",
+        "description": "Bureau of Indian Standards"
+      }
+    ]
+  },
+  "cta": {
+    "headline": "NEED A CUSTOM FORMULATION?",
+    "subheadline": "Our in-house R&D team develops bespoke lubricant solutions for OEMs and industrial clients with unique application requirements.",
+    "buttonText": "Request Technical Datasheet"
+  }
+}

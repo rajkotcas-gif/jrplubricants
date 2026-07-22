@@ -1,0 +1,121 @@
+{
+  "hero": {
+    "headline": "ENGINEERED FOR PERFORMANCE.",
+    "headlineAccent": "READY FOR THE WORLD.",
+    "subheadline": "Gujarat-based manufacturer of high-performance industrial oils, automotive lubricants, and specialty greases — a brand of Jay Trading Company, built for domestic and global markets.",
+    "cta1": "Explore Products",
+    "cta2": "Request a Quote"
+  },
+  "stats": [
+    {
+      "id": "stat-1",
+      "value": "2018",
+      "label": "Established"
+    },
+    {
+      "id": "stat-2",
+      "value": "500+",
+      "label": "Product Variants"
+    },
+    {
+      "id": "stat-3",
+      "value": "ISO",
+      "label": "Certified Quality"
+    },
+    {
+      "id": "stat-4",
+      "value": "Export",
+      "label": "Ready"
+    }
+  ],
+  "products": {
+    "sectionLabel": "Our Products",
+    "headline": "PRECISION-FORMULATED FOR EVERY INDUSTRY",
+    "subheadline": "From heavy industrial machinery to precision automotive engines, JRP Lubricants delivers performance-grade solutions engineered for the most demanding applications.",
+    "categories": [
+      {
+        "id": "prod-1",
+        "name": "Industrial Oils",
+        "description": "High-performance gear oils, turbine oils, compressor oils, and hydraulic fluids engineered for continuous heavy-duty industrial operations.",
+        "specs": "Viscosity grades ISO 32–680 | Temperature range -20°C to 220°C"
+      },
+      {
+        "id": "prod-2",
+        "name": "Automotive Lubricants",
+        "description": "Engine oils, transmission fluids, and brake fluids formulated to meet API, ACEA, and OEM specifications for passenger and commercial vehicles.",
+        "specs": "API SN/CF | ACEA A3/B4 | SAE 0W-20 to 20W-50"
+      },
+      {
+        "id": "prod-3",
+        "name": "Specialty Greases",
+        "description": "Lithium complex, calcium sulfonate, and polyurea greases for extreme pressure, high-temperature, and water-resistant applications.",
+        "specs": "NLGI 0–3 | EP additives | -40°C to 260°C"
+      },
+      {
+        "id": "prod-4",
+        "name": "Marine & Heavy-Duty",
+        "description": "Cylinder oils, trunk piston engine oils, and stern tube lubricants designed for marine diesel engines and offshore industrial equipment.",
+        "specs": "BN 40–100 | ISO-F-MA2 | SOLAS compliant"
+      }
+    ]
+  },
+  "whyJrp": {
+    "sectionLabel": "Why JRP",
+    "headline": "A BRAND BUILT ON QUALITY AND AMBITION",
+    "body": "JRP Lubricants is the flagship brand of Jay Trading Company, established in 2018 in Gujarat. From day one, we set out to manufacture performance-grade lubricants that meet international standards — and to build the infrastructure needed to serve both domestic customers and global export markets. We're export-ready, compliance-certified, and growing fast.",
+    "differentiators": [
+      {
+        "id": "diff-1",
+        "title": "In-House R&D",
+        "description": "Dedicated research and development lab with advanced tribology testing capabilities."
+      },
+      {
+        "id": "diff-2",
+        "title": "ISO 9001:2015 Certified",
+        "description": "Rigorous quality management systems ensuring consistent product performance batch after batch."
+      },
+      {
+        "id": "diff-3",
+        "title": "Custom Formulations",
+        "description": "Bespoke lubricant development for OEMs and industrial clients with unique application requirements."
+      },
+      {
+        "id": "diff-4",
+        "title": "Export Ready",
+        "description": "Full export documentation, compliance certifications, and flexible packaging — ready to serve international distributors and buyers."
+      }
+    ]
+  },
+  "export": {
+    "sectionLabel": "Global Ambition",
+    "headline": "MANUFACTURED IN GUJARAT. READY FOR THE WORLD.",
+    "subheadline": "JRP Lubricants is fully equipped to serve international markets — with export-grade packaging, compliance documentation, and the product range to meet global demand.",
+    "regions": [
+      {
+        "id": "reg-1",
+        "name": "Middle East",
+        "countries": "UAE, Saudi Arabia, Kuwait, Oman, Qatar, Bahrain"
+      },
+      {
+        "id": "reg-2",
+        "name": "Africa",
+        "countries": "Nigeria, Kenya, South Africa, Egypt, Tanzania, Ghana"
+      },
+      {
+        "id": "reg-3",
+        "name": "Southeast Asia",
+        "countries": "Indonesia, Malaysia, Vietnam, Thailand, Philippines"
+      },
+      {
+        "id": "reg-4",
+        "name": "Europe",
+        "countries": "Germany, Netherlands, Poland, Turkey, Romania"
+      }
+    ]
+  },
+  "cta": {
+    "headline": "READY TO PARTNER WITH JRP?",
+    "subheadline": "Whether you're a distributor, OEM, or industrial buyer — JRP Lubricants offers flexible B2B partnerships, private labelling, and export programs tailored to your market.",
+    "buttonText": "Start an Export Inquiry"
+  }
+}

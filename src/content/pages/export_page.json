@@ -1,0 +1,246 @@
+{
+  "hero": {
+    "label": "Export & Global Reach",
+    "headline": "MANUFACTURED IN GUJARAT. READY FOR THE WORLD.",
+    "subheadline": "JRP Lubricants — a brand of Jay Trading Company — is fully export-ready. We're seeking distribution partners across the Middle East, Africa, Southeast Asia, and Europe. Full compliance documentation, flexible packaging, and competitive pricing."
+  },
+  "stats": [
+    {
+      "id": "exp-stat-1",
+      "value": "2018",
+      "label": "Established"
+    },
+    {
+      "id": "exp-stat-2",
+      "value": "500+",
+      "label": "Product SKUs"
+    },
+    {
+      "id": "exp-stat-3",
+      "value": "ISO",
+      "label": "Certified Facility"
+    },
+    {
+      "id": "exp-stat-4",
+      "value": "Export",
+      "label": "Ready"
+    }
+  ],
+  "regions": {
+    "sectionLabel": "Target Markets",
+    "headline": "WHERE WE WANT TO GROW",
+    "subheadline": "From our Gujarat manufacturing base, JRP Lubricants is ready to supply distributors, industrial buyers, and OEM partners across these key global markets. We're actively seeking first-mover partners in each region.",
+    "items": [
+      {
+        "id": "reg-1",
+        "name": "Middle East",
+        "flag": "🌍",
+        "countries": [
+          "UAE",
+          "Saudi Arabia",
+          "Kuwait",
+          "Oman",
+          "Qatar",
+          "Bahrain",
+          "Iraq",
+          "Jordan"
+        ],
+        "highlight": "A priority target market — strong demand for quality lubricants across GCC industrial and automotive sectors.",
+        "packagingNote": "Arabic labelling available | Halal-compliant formulations on request"
+      },
+      {
+        "id": "reg-2",
+        "name": "Africa",
+        "flag": "🌍",
+        "countries": [
+          "Nigeria",
+          "Kenya",
+          "South Africa",
+          "Egypt",
+          "Tanzania",
+          "Ghana",
+          "Ethiopia",
+          "Mozambique"
+        ],
+        "highlight": "Fast-growing industrial and automotive sector with strong demand for cost-effective, high-performance lubricants.",
+        "packagingNote": "French & English labelling available | Bulk and drum packaging"
+      },
+      {
+        "id": "reg-3",
+        "name": "Southeast Asia",
+        "flag": "🌏",
+        "countries": [
+          "Indonesia",
+          "Malaysia",
+          "Vietnam",
+          "Thailand",
+          "Philippines",
+          "Myanmar",
+          "Cambodia"
+        ],
+        "highlight": "Rapidly expanding manufacturing sector driving demand for industrial and automotive lubricants — an ideal entry market.",
+        "packagingNote": "Bahasa, Thai & Vietnamese labelling available | ISO-compliant documentation"
+      },
+      {
+        "id": "reg-4",
+        "name": "Europe",
+        "flag": "🌍",
+        "countries": [
+          "Germany",
+          "Netherlands",
+          "Poland",
+          "Turkey",
+          "Romania",
+          "Czech Republic",
+          "Hungary"
+        ],
+        "highlight": "Premium industrial and specialty lubricant demand met with REACH-compliant formulations. Seeking quality-focused distributors.",
+        "packagingNote": "REACH compliance documentation | CE-compatible formulations"
+      },
+      {
+        "id": "reg-5",
+        "name": "South Asia",
+        "flag": "🌏",
+        "countries": [
+          "Bangladesh",
+          "Sri Lanka",
+          "Nepal",
+          "Pakistan",
+          "Maldives"
+        ],
+        "highlight": "Neighbouring markets with fast freight turnaround from Gujarat — ideal for first export partnerships.",
+        "packagingNote": "Multi-language labelling | Flexible MOQ for smaller markets"
+      },
+      {
+        "id": "reg-6",
+        "name": "Americas & Others",
+        "flag": "🌎",
+        "countries": [
+          "USA",
+          "Canada",
+          "Brazil",
+          "Mexico",
+          "Australia",
+          "New Zealand"
+        ],
+        "highlight": "Selective outreach to premium industrial buyers and specialty lubricant distributors in developed markets.",
+        "packagingNote": "API & ASTM documentation | English labelling"
+      }
+    ]
+  },
+  "capabilities": {
+    "sectionLabel": "Export Capabilities",
+    "headline": "END-TO-END EXPORT SUPPORT",
+    "subheadline": "JRP Lubricants handles the full export chain — from formulation and packaging to documentation, compliance, and freight coordination.",
+    "items": [
+      {
+        "id": "cap-1",
+        "title": "Flexible Packaging",
+        "description": "Available in 1L, 4L, 5L, 20L, 200L drums, and bulk IBC containers. Custom private-label packaging for distributors."
+      },
+      {
+        "id": "cap-2",
+        "title": "Compliance Documentation",
+        "description": "Full export documentation including Certificate of Origin, MSDS/SDS, COA, Packing List, and country-specific compliance certificates."
+      },
+      {
+        "id": "cap-3",
+        "title": "Private Labelling",
+        "description": "White-label and private-label programs for distributors and OEMs. Custom formulations, branding, and packaging available."
+      },
+      {
+        "id": "cap-4",
+        "title": "Freight & Logistics",
+        "description": "FCL and LCL sea freight, air freight for urgent orders. Partnerships with major freight forwarders for competitive rates."
+      },
+      {
+        "id": "cap-5",
+        "title": "Custom Formulations",
+        "description": "Bespoke lubricant development for specific climate conditions, equipment requirements, or regulatory standards."
+      },
+      {
+        "id": "cap-6",
+        "title": "Technical Support",
+        "description": "Dedicated export technical team providing product selection guidance, application support, and field troubleshooting."
+      }
+    ]
+  },
+  "compliance": {
+    "sectionLabel": "Compliance & Certifications",
+    "headline": "INTERNATIONALLY CERTIFIED QUALITY",
+    "subheadline": "Every JRP export shipment is backed by internationally recognised certifications and rigorous quality documentation.",
+    "items": [
+      {
+        "id": "comp-1",
+        "name": "ISO 9001:2015",
+        "description": "Quality Management System — consistent product quality across every batch."
+      },
+      {
+        "id": "comp-2",
+        "name": "ISO 14001:2015",
+        "description": "Environmental Management — responsible manufacturing practices."
+      },
+      {
+        "id": "comp-3",
+        "name": "API Certified",
+        "description": "American Petroleum Institute standards for automotive and industrial lubricants."
+      },
+      {
+        "id": "comp-4",
+        "name": "BIS Certified",
+        "description": "Bureau of Indian Standards certification for domestic and export markets."
+      },
+      {
+        "id": "comp-5",
+        "name": "REACH Compliant",
+        "description": "EU chemical regulation compliance for European export markets."
+      },
+      {
+        "id": "comp-6",
+        "name": "MSDS / SDS",
+        "description": "Full Material Safety Data Sheets available for all products in multiple languages."
+      }
+    ]
+  },
+  "process": {
+    "sectionLabel": "How It Works",
+    "headline": "FROM INQUIRY TO FIRST SHIPMENT",
+    "steps": [
+      {
+        "id": "step-1",
+        "number": "01",
+        "title": "Submit Inquiry",
+        "description": "Send us your product requirements, destination country, volume, and packaging preferences via our export inquiry form."
+      },
+      {
+        "id": "step-2",
+        "number": "02",
+        "title": "Quotation & Samples",
+        "description": "We provide a detailed quotation within 48 hours. Product samples available on request for quality evaluation."
+      },
+      {
+        "id": "step-3",
+        "number": "03",
+        "title": "Order Confirmation",
+        "description": "Confirm your order with agreed terms. We begin production scheduling and packaging preparation."
+      },
+      {
+        "id": "step-4",
+        "number": "04",
+        "title": "Quality Check & Dispatch",
+        "description": "Every batch undergoes QC testing before dispatch. Full documentation package prepared and shared."
+      },
+      {
+        "id": "step-5",
+        "number": "05",
+        "title": "Shipment & Tracking",
+        "description": "Goods dispatched via your preferred freight mode. Tracking details and shipping documents provided promptly."
+      }
+    ]
+  },
+  "cta": {
+    "headline": "BECOME OUR FIRST EXPORT PARTNER",
+    "subheadline": "We're actively looking for distributors, industrial buyers, and OEM partners to grow with. Get in touch — let's build something together.",
+    "buttonText": "Start an Export Inquiry"
+  }
+}
