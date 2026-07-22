@@ -2,11 +2,6 @@ import { defineConfig, type Plugin, type ViteDevServer } from "vite";
 import react from "@vitejs/plugin-react";
 import path from "path";
 import { URL } from "node:url";
-import sourceMapperPlugin from "./source-mapper/src/index";
-import { devToolsPlugin } from "./dev-tools/src/vite-plugin";
-import { fullStoryPlugin } from "./fullstory-plugin";
-import { errorInterceptorPlugin } from "./dev-tools/src/vite-error-interceptor";
-import { mediaVersionsPlugin } from "./dev-tools/src/vite-media-versions-plugin";
 import { formatOverridesPlugin } from "./format-overrides-plugin";
 import { contentPlugin } from "./content-plugin/src/index";
 
@@ -69,22 +64,10 @@ export default defineConfig(({ mode, isSsrBuild }) => ({
 	envPrefix: ["VITE_", "SITE_"],
 
 	plugins: [
-		react({
-			babel: {
-				plugins: [sourceMapperPlugin],
-			},
-			}),
-			apiDevPlugin(),
-			formatOverridesPlugin(__dirname),
-			contentPlugin(),
-			...(mode === "development"
-			? [
-					devToolsPlugin() as Plugin,
-					fullStoryPlugin(),
-					errorInterceptorPlugin(),
-					mediaVersionsPlugin() as Plugin,
-				]
-			: []),
+		react(),
+		apiDevPlugin(),
+		formatOverridesPlugin(__dirname),
+		contentPlugin(),
 	],
 
 	resolve: {
@@ -121,11 +104,6 @@ export default defineConfig(({ mode, isSsrBuild }) => ({
 		watch: {
 			ignored: ["**/dist/**"],
 		},
-		// Pre-transform the entry chain on dev-server start so the FIRST iframe
-		// request doesn't pay the full cold on-demand transpile cost. Paired with
-		// the container's pre-start `vite optimize` (container-scripts/preview/
-		// nomad_setup.sh), this shrinks the mount→IFRAME_READY window that the
-		// builder's recovery logic waits on.
 		warmup: {
 			clientFiles: ["./src/main.tsx", "./src/App.tsx"],
 		},
