@@ -1,2 +1,6 @@
-/airo-assets/images/*  /assets/uploads/:splat  200
-/*  /index.html  200
+/airo-assets/images/pages/home/hero                  /assets/uploads/hero.jpg                 200
+/airo-assets/images/pages/home/products-industrial   /assets/uploads/products-industrial.jpg  200
+/airo-assets/images/pages/home/products-automotive   /assets/uploads/products-automotive.jpg  200
+/airo-assets/images/pages/home/products-marine       /assets/uploads/products-marine.jpg      200
+/airo-assets/images/pages/home/products-specialty    /assets/uploads/products-specialty.jpg   200
+/*                                                   /index.html                              200
