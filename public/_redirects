@@ -1,2 +1,2 @@
 /airo-assets/images/*  /assets/uploads/:splat  200
-/*  /index.html  200
+/*  /client/:splat  200
